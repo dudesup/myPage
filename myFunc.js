@@ -9,7 +9,6 @@ function myContact() {
         "<ul>" +
         "<li>numer telefonu: 123 456 789</li>" +
         "<li>mail: imie.nazwisko@gmail.com</li>" +
-        "<li>linkedIn: link@linkedin.com</li>" +
         "</ul>" +
         "</div>";
 }

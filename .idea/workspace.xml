@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a207aaf8-e65b-4d15-81cc-425d266de459" name="Default Changelist" comment="" />
+    <list default="true" id="a207aaf8-e65b-4d15-81cc-425d266de459" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontello-codes.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontello-codes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontello-embedded.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontello-embedded.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontello-ie7-codes.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontello-ie7-codes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontello-ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontello-ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontello.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontello.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/fontello.eot" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontello.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/fontello.svg" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontello.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/fontello.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontello.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/fontello.woff" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontello.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/fontello.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/font/fontello.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFunc.js" beforeDir="false" afterPath="$PROJECT_DIR$/myFunc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WvRclAPOQ8GvumMqVYf9sHp2f0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,11 +37,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daria\Desktop\zelent3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\MEGA\www\zelent3" />
     </key>
@@ -37,7 +63,9 @@
       <workItem from="1580028164723" duration="1075000" />
       <workItem from="1580029294268" duration="21000" />
       <workItem from="1580029375409" duration="3593000" />
-      <workItem from="1580034592001" duration="2792000" />
+      <workItem from="1580034592001" duration="12027000" />
+      <workItem from="1580074209716" duration="1447000" />
+      <workItem from="1580156206801" duration="5129000" />
     </task>
     <servers />
   </component>
@@ -45,9 +73,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Inspections" timestamp="1580046141495">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1580046141495" />
+    <state x="234" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580046182210">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="234" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1580046182210" />
+    <state x="253" y="65" key="CommitChangelistDialog2" timestamp="1580168550913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="253" y="65" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1580168550913" />
     <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1580030049840">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1580030049840" />
+    <state x="1204" y="113" width="607" height="804" key="find.popup" timestamp="1580046490276">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1204" y="113" width="607" height="804" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1580046490276" />
+    <state x="685" y="112" key="new project wizard" timestamp="1580075696918">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="685" y="112" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1580075696918" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1580167732444">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1580167732444" />
   </component>
 </project>
